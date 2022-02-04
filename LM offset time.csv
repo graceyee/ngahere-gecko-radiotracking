@@ -1,0 +1,529 @@
+﻿ID,release_type,Sex,SVL,Date,Time,hours,Temp,Rainfall,Humidity,Cloud cover,Fix,Distance,Direction,Ht_ground,Tree spp,Tree_ht,Microhabitat,Orientation,Activity,Disturbed
+19,HR,M,81,5/02/18,1417,NA,23.4,0,61,1.5,1,28.3,320,1.64,kanuka,2.8,3 branch,down,not moving,No
+19,HR,M,81,6/02/18,1324,23.12,22.6,0,53,0.5,2,30.7,210,2.5,Ngaio,3,2 branch,down,basking,No
+19,HR,M,81,7/02/18,1530,26.10,25.7,0,43,5,3,2.48,219,NA,kanuka,3.15,NA,NA,NA,No
+19,HR,M,81,8/02/18,1509,23.65,25.8,0,44,2,4,1.5,50,NA,Ngaio,3.3,NA,NA,NA,No
+19,HR,M,81,12/02/18,1516,96.12,22.1,0,92,8,5,2.1,94,NA,kanuka,3.35,NA,NA,NA,No
+19,HR,M,81,14/02/18,1232,45.27,23.4,0,70,8,6,118.5,322,2.51,kanuka,3.37,2 branch,up,not moving,No
+20,HR,M,73,5/02/18,1432,NA,23.4,0,61,1.5,1,7.25,344,0,grass,NA,long grass,horizontal,not moving,Yes
+20,HR,M,73,6/02/18,2238,32.10,14.3,0,73,1,2,3.48,68,0.89,UNID6,2.47,2 branch,up,not moving,No
+20,HR,M,73,7/02/18,1315,14.62,25.7,0,43,5,3,5,28,2.4,Ngaio,3.22,4 branch,up,not moving,No
+20,HR,M,73,8/02/18,1550,26.58,25.8,0,44,2,4,1.3,100,NA,kanuka,4.07,NA,NA,NA,No
+20,HR,M,73,12/02/18,1356,94.10,22.1,0,92,8,5,3.35,346,NA,kanuka,4.12,NA,NA,NA,No
+20,HR,M,73,13/02/18,1319,23.38,24.1,0,75,6,6,1.75,143,NA,kanuka,4.12,NA,NA,NA,No
+20,HR,M,73,14/02/18,2327,34.13,18.9,0,85,1,7,1.6,315,NA,kanuka,4.12,NA,NA,NA,No
+20,HR,M,73,15/02/18,1254,13.45,22.6,0,70,0.5,8,1.41,20,NA,kanuka,4.12,NA,NA,NA,No
+20,HR,M,73,17/02/18,1428,49.57,21.3,1,94,3,9,0.84,229,3.54,kanuka,4.02,4 branch,down,not moving,No
+20,HR,M,73,18/02/18,2338,33.17,20.7,0,81,0,10,0.45,78,NA,kanuka,4.02,NA,NA,NA,No
+20,HR,M,73,19/02/18,1311,13.55,23.5,33.8,67,8,11,0.73,205,NA,kanuka,4.02,NA,NA,NA,No
+20,HR,M,73,21/02/18,1455,49.73,19.5,14.4,64,1.5,12,2.15,226,NA,kanuka,3.98,NA,NA,NA,No
+20,HR,M,73,22/02/18,1316,22.35,17.2,0,69,7.5,13,0.57,82,1.84,kanuka,3.98,2 branch,up,not moving,No
+20,HR,M,73,23/02/18,1720,28.07,20.6,0,67,6,14,0,NA,NA,kanuka,3.98,NA,NA,NA,No
+20,HR,M,73,24/02/18,100,7.67,19.5,0,73,5,15,2.7,200,3.2,kanuka,4,foliage,NA,NA,No
+20,HR,M,73,24/02/18,1420,13.33,22,0,69,1,16,4.1,30,NA,kanuka,5,?foliage,NA,NA,No
+20,HR,M,73,24/02/18,2224,8.07,19.2,0,78,7,17,1.9,330,NA,kanuka,3.8,NA,NA,NA,No
+20,HR,M,73,25/02/18,1310,14.77,21.2,3.4,53,4,18,4.1,190,3.3,kanuka,3.6,foliage,NA,NA,No
+24,HR,M,83,5/02/18,1359,NA,23.4,0,61,1.5,1,25.9,228,0.55,kanuka,3.4,trunk,down,moving,No
+24,HR,M,83,6/02/18,1542,25.72,22.6,0,53,0.5,2,11.6,110,NA,Ngaio,3.9,NA,NA,NA,No
+24,HR,M,83,7/02/18,2234,30.87,15.7,0,65,0,3,13.9,79,NA,Ngaio,3.55,NA,NA,NA,No
+24,HR,M,83,8/02/18,1328,14.90,25.8,0,44,2,4,18.8,210,0,grass,NA,long grass,horizontal,not moving,Yes
+24,HR,M,83,12/02/18,1555,98.45,22.1,0,92,8,5,2.85,134,NA,Ngaio,3.1,NA,NA,NA,No
+24,HR,M,83,14/02/18,1454,46.98,23.4,0,70,8,6,27.7,39,NA,Ngaio,5.22,NA,NA,NA,No
+24,HR,M,83,17/02/18,1328,70.57,21.3,1,94,3,7,13.54,220,NA,Ngaio,3.82,NA,NA,NA,No
+24,HR,M,83,18/02/18,1557,26.48,23.3,0,79,3,8,3.45,151,3.35,Ngaio,3.7,2 branch,up,not moving,No
+24,HR,M,83,21/02/18,1410,70.22,19.5,14.4,64,1.5,9,3.17,237,NA,UNID6,3.73,NA,NA,NA,No
+24,HR,M,83,22/02/18,1540,25.50,17.2,0,69,7.5,10,3.95,332,1.87,Ngaio,4,3 branch,down,not moving,No
+24,HR,M,83,23/02/18,1342,22.03,20.6,0,67,6,11,6.8,10,NA,Ngaio,4.2,NA,NA,NA,No
+24,HR,M,83,24/02/18,1215,22.55,22,0,69,1,12,13.2,80,1.6,Ngaio,2.8,dead branch,up,not moving,Yes
+24,HR,M,83,25/02/18,2308,34.88,18.8,3.4,64,1,13,11.9,305,NA,Ngaio,4.4,foam cover,NA,NA,No
+24,HR,M,83,26/02/18,1750,18.70,15,6,66,1,14,6.3,150,3.4,PITten,5,2 branch,down,not moving,No
+24,HR,M,83,26/02/18,2325,5.58,15,6,66,1,15,0.4,230,3.3,PITten,5,NA,NA,NA,No
+24,HR,M,83,27/02/18,1239,13.23,19.1,6.2,54,4,16,1.2,210,3.3,PITten,5,3 branch,up,not moving,No
+24,HR,M,83,28/02/18,1127,22.80,21.2,0.2,81,8,17,2.7,190,1.7,Ngaio,5.5,branch,down,not moving,No
+24,HR,M,83,1/03/18,2254,35.45,17.5,0,82,8,18,7.51,191,NA,lancewood,5.4,NA,NA,NA,No
+24,HR,M,83,2/03/18,1303,14.15,23.2,0,70,8,19,7.77,2,3.62,Ngaio,4.82,2 branch,up,basking,No
+24,HR,M,83,4/03/18,2235,57.53,19.7,0,75,5,20,0.44,258,2.89,COProb,3.75,foliage,up,moving,No
+24,HR,M,83,5/03/18,28,1.88,20.5,0,80,0,21,0,NA,NA,UNID18,3.75,NA,NA,NA,No
+24,HR,M,83,8/03/18,1250,84.37,15.5,0,83,8,22,9.1,70,0.59,Ngaio,5.16,1 branch,horizontal,not moving,Yes
+25,HR,F,79,5/02/18,1320,NA,23.4,0,61,1.5,1,22.5,235,0.8,kanuka,1.26,foliage,uo,not moving,No
+25,HR,F,79,6/02/18,1523,26.05,22.6,0,53,0.5,2,19.5,130,NA,kanuka,1.6,NA,NA,NA,No
+25,HR,F,79,7/02/18,1559,24.60,25.7,0,43,5,3,4.4,296,0,grass,NA,long grass,horizontal,moving,Yes
+25,HR,F,79,8/02/18,1255,20.93,25.8,0,44,2,4,1.52,222,0,grass,NA,long grass,horizontal,moving,No
+25,HR,F,79,12/02/18,1532,98.62,22.1,0,92,8,5,4.5,70,0.8,UNID12,1.6,2 branch,down,moving,Yes
+25,HR,F,79,14/02/18,1436,47.07,23.4,0,70,8,6,9.4,152,NA,NA,NA,NA,NA,NA,No
+25,HR,F,79,17/02/18,2300,80.40,20.3,1,95,7,7,17.95,62,0,ground,NA,ground,NA,NA,No
+1/G23,SR,M,75,13/01/18,1748,NA,27.1,0,59,2,0,NA,NA,0.8,kanuka,3,branch,NA,basking,Yes
+1/G23,SR,M,75,14/01/18,1502,21.23,27.3,0,58,0,1,2.1,270,2.1,kanuka,NA,branch,up,not moving,No
+1/G23,SR,M,75,15/01/18,0,8.97,19.2,0.2,72,0,2,4,0,2.2,kanuka,3,?foliage,NA,NA,No
+1/G23,SR,M,75,15/01/18,1330,13.50,29.8,0.2,55,3,3,4.2,0,2.2,kanuka,3,branch?,NA,NA,No
+1/G23,SR,M,75,15/01/18,0,10.50,20.6,0.2,80,0,4,1.6,270,2.4,kanuka,3,branch,NA,NA,No
+1/G23,SR,M,75,16/01/18,1447,14.78,25.9,0,56,6,5,1.1,120,2,kanuka,3,1 branch,NA,NA,No
+1/G23,SR,M,75,17/01/18,1430,23.72,24.9,24.6,52,8,6,3.2,60,NA,kanuka,3,NA,NA,NA,No
+1/G23,SR,M,75,19/01/18,1030,44.00,20.3,0.2,95,7,7,1.6,250,0.85,kanuka,3.5,1 branch,NA,NA,Yes
+1/G23,SR,M,75,20/01/18,1310,26.67,23.8,0,74,2,8,15.4,100,3.45,PITten,NA,2 branch,NA,NA,No
+1/G23,SR,M,75,21/01/18,2228,33.30,20.1,0,89,8,9,0.5,270,NA,PITten,5.4,foliage,NA,NA,No
+1/G23,SR,M,75,22/01/18,1800,19.53,22.5,0,78,7.5,10,4.5,230,NA,kanuka,3.9,NA,NA,NA,No
+1/G23,SR,M,75,23/01/18,2257,28.95,22.2,0,82,8,11,2.4,230,NA,kanuka,3.9,NA,NA,NA,No
+1/G23,SR,M,75,24/01/18,1305,14.13,26.3,0,70,0.5,12,1.8,290,NA,kanuka,3.05,NA,NA,NA,No
+1/G23,SR,M,75,24/01/18,2250,9.75,21.1,0,90,0.5,13,1.45,340,NA,kanuka,3.05,NA,NA,NA,No
+1/G23,SR,M,75,28/01/18,2240,95.83,20.2,0,87,2,14,2.8,117.5,NA,kanuka,3.05,NA,NA,NA,No
+1/G23,SR,M,75,29/01/18,1630,17.83,24.3,0,69,0,15,1.1,67,1.6,kanuka,3.6,1 branch,down,not moving,Yes
+1/G23,SR,M,75,30/01/18,1551,23.35,24.3,0,75,7,16,0.4,201,NA,kanuka,3.6,NA,NA,NA,No
+1/G23,SR,M,75,30/01/18,34,8.72,21.2,0,88,6,17,1.35,7.5,NA,kanuka,3.6,NA,NA,NA,No
+1/G23,SR,M,75,1/02/18,1305,36.52,24.1,27.2,73,8,18,2.9,190,NA,kanuka,3.65,NA,NA,NA,No
+1/G23,SR,M,75,2/02/18,1509,26.07,21.3,0,66,6.5,19,3.5,220,NA,kanuka,3.5,NA,NA,NA,No
+1/G23,SR,M,75,2/02/18,2359,8.83,15.1,0,71,7,20,1.5,44,NA,kanuka,3.8,NA,NA,NA,No
+1/G23,SR,M,75,3/02/18,1251,12.87,17.4,0,61,7.5,21,1.55,272,NA,kanuka,3.6,NA,NA,NA,No
+1/G23,SR,M,75,3/02/18,2247,9.93,14,0,62,1,22,1.25,360,NA,kanuka,3.6,?foliage,NA,NA,No
+1/G23,SR,M,75,5/02/18,2353,49.10,18.8,0,77,0,23,0.7,120,NA,kanuka,3.6,?foliage,NA,NA,No
+1/G23,SR,M,75,6/02/18,1446,14.88,22.6,0,53,0.5,24,2.4,180,NA,kanuka,3.6,NA,NA,NA,No
+1/G23,SR,M,75,7/02/18,2257,32.18,15.7,0,65,0,25,1.3,350,NA,kanuka,3.6,NA,NA,NA,No
+1/G23,SR,M,75,8/02/18,2237,23.67,17.6,0,62,0,26,0,NA,NA,kanuka,3.6,NA,NA,NA,No
+1/G23,SR,M,75,12/02/18,2241,96.07,21.1,0,90,7,27,1.15,197,NA,kanuka,3.6,NA,NA,NA,No
+1/G23,SR,M,75,13/02/18,1348,15.12,24.1,0,75,6,28,0,NA,NA,kanuka,3.6,NA,NA,NA,No
+1/G23,SR,M,75,14/02/18,1542,25.90,23.4,0,70,8,29,0,NA,NA,kanuka,3.6,NA,NA,moving,No
+1/G23,SR,M,75,15/02/18,2235,30.88,19.9,0,87,1,30,0,NA,NA,kanuka,3.6,NA,NA,NA,No
+1/G23,SR,M,75,17/02/18,1614,41.65,21.3,1,94,3,31,1.51,5,2.25,kanuka,3.6,2 branch,horizontal,not moving,Yes
+1/G23,SR,M,75,18/02/18,2240,30.43,20.7,0,81,0,32,6.95,11,NA,kanuka,3.78,NA,NA,NA,No
+1/G23,SR,M,75,19/02/18,1510,16.50,23.5,33.8,67,8,33,4.52,136,NA,PITten,3.67,NA,NA,NA,No
+1/G23,SR,M,75,21/02/18,1230,45.33,19.5,14.4,64,1.5,34,1.95,203,1.37,Ngaio,3.69,2 branch,up,not moving,Yes
+10/G25,SR,M,81,16/01/18,1700,NA,25.9,0,56,6,0,NA,NA,1.9,kanuka,3,1 branch,NA,NA,Yes
+10/G25,SR,M,81,16/01/18,28,7.47,20,0,84,8,1,7.5,200,NA,Ngaio,3,?foliage,NA,NA,No
+10/G25,SR,M,81,18/01/18,1250,36.37,19.7,9,87,8,2,3.4,132,NA,kanuka,3,NA,NA,NA,No
+10/G25,SR,M,81,19/01/18,1300,24.17,20.3,0.2,95,7,3,1.7,360,4,kanuka,4,?foliage,NA,NA,No
+10/G25,SR,M,81,20/01/18,2325,22.08,22.1,0,70,8,4,7.1,5,NA,NA,NA,NA,NA,NA,No
+10/G25,SR,M,81,21/01/18,1434,15.15,24.1,0,76,4,5,4.5,10,NA,kanuka,4,NA,NA,NA,No
+10/G25,SR,M,81,21/01/18,2345,9.18,20.1,0,89,8,6,,,NA,kanuka,NA,NA,NA,NA,No
+11/G09,SR,M,80,18/01/18,1135,NA,19.7,9,87,8,0,NA,NA,1.3,kanuka,3,foam cover,NA,NA,Yes
+11/G09,SR,M,80,19/01/18,1512,27.62,22.8,0.2,95,3,1,2.6,80,1.8,PITten,3,NA,NA,NA,No
+11/G09,SR,M,80,19/01/18,30,9.30,21.1,0.2,89,0,2,1,50,NA,PITten,NA,?foliage,NA,NA,No
+11/G09,SR,M,80,20/01/18,2250,22.33,22.1,0,70,8,3,2.5,240,NA,kanuka,3.3,NA,NA,NA,No
+11/G09,SR,M,80,21/01/18,1352,15.03,24.1,0,76,4,4,1.45,110,NA,kanuka,3.55,NA,NA,NA,No
+11/G09,SR,M,80,22/01/18,1630,26.63,22.5,0,78,7.5,5,11.5,270,1.75,kanuka,NA,1 branch,up,not moving,Yes
+11/G09,SR,M,80,23/01/18,1412,21.70,23.6,0,78,6,6,6.9,70,3.5,kanuka,2.6,2 branch,NA,NA,No
+11/G09,SR,M,80,24/01/18,40,10.47,21.1,0,90,0.5,7,3.2,180,NA,kanuka,3.7,NA,NA,NA,No
+11/G09,SR,M,80,29/01/18,1530,134.83,24.3,0,69,0,8,2.2,8,1.8,kanuka,3.5,3 branch,down,not moving,Yes
+11/G09,SR,M,80,30/01/18,1334,22.07,24.3,0,75,7,9,1.7,218,1,kanuka,3.5,foam cover,down,not moving,No
+11/G09,SR,M,80,2/02/18,1305,71.52,21.3,0,66,6.5,10,1.5,20,2.7,kanuka,3.5,4 branch,up,not moving,No
+11/G09,SR,M,80,3/02/18,1504,25.98,17.4,0,61,7.5,11,3.2,172,2.62,kanuka,3.65,4 branch,up,moving,No
+11/G09,SR,M,80,5/02/18,2307,56.05,18.8,0,77,0,12,2.3,300,0.8,kanuka,3.5,foam cover,NA,NA,No
+11/G09,SR,M,80,7/02/18,2315,48.13,15.7,0,65,0,13,2.4,290,0.79,PITten,3.37,1 branch,NA,NA,No
+12/G15,SR,M,85,18/01/18,1230,NA,19.7,9,87,8,0,NA,NA,1.05,kanuka,3,2 branch,NA,NA,Yes
+12/G15,SR,M,85,19/01/18,1545,27.25,22.8,0.2,95,3,1,0.5,200,NA,kanuka,4,?foliage,NA,NA,No
+12/G15,SR,M,85,19/01/18,80,9.58,21.1,0.2,89,0,2,2.7,110,2.9,kanuka,3.7,2 branch,NA,NA,No
+12/G15,SR,M,85,20/01/18,1630,15.17,23.8,0,74,2,4,2.3,260,NA,kanuka,3.7,NA,NA,NA,No
+12/G15,SR,M,85,21/01/18,1300,20.50,24.1,0,76,4,5,1.5,100,NA,kanuka,NA,NA,NA,NA,No
+12/G15,SR,M,85,23/01/18,1400,49.00,23.6,0,78,6,6,2.85,30,1.15,kanuka,3,2 branch,NA,NA,No
+12/G15,SR,M,85,24/01/18,115,11.25,21.1,0,90,0.5,7,3.35,200,3.15,kanuka,NA,NA,NA,NA,No
+12/G15,SR,M,85,29/01/18,1453,133.63,24.3,0,69,0,8,2.5,32.5,NA,kanuka,4.6,NA,NA,NA,No
+12/G15,SR,M,85,29/01/18,2355,9.03,21.2,0,83,0,9,1.2,170,1.1,PITeug,3,1 branch,up,not moving,Yes
+12/G15,SR,M,85,30/01/18,1417,14.37,24.3,0,75,7,10,2.4,22,NA,kanuka,3.6,NA,NA,NA,No
+12/G15,SR,M,85,30/01/18,2355,9.63,21.2,0,88,6,11,2.4,336,NA,kanuka,3.6,?foliage,NA,NA,No
+12/G15,SR,M,85,2/02/18,1335,61.67,21.3,0,66,6.5,12,2.5,210,2.75,kanuka,3.6,4 branch,up,eating,No
+12/G15,SR,M,85,3/02/18,1510,25.58,17.4,0,61,7.5,13,0.3,80,2.85,kanuka,3.6,3 branch,down,moving,No
+12/G15,SR,M,85,5/02/18,2317,56.12,18.8,0,77,0,14,2.7,160,2.79,kanuka,3.6,branchlettes,horizontal,not moving,No
+12/G15,SR,M,85,7/02/18,2343,48.43,15.7,0,65,0,15,0,0,NA,kanuka,3.6,NA,NA,NA,No
+12/G15,SR,M,85,8/02/18,2353,24.17,17.6,0,62,0,16,2.3,42,NA,kanuka,3.6,NA,NA,NA,No
+12/G15,SR,M,85,12/02/18,8,72.25,21.1,0,90,7,17,3.1,295,NA,OLE,4.2,NA,NA,NA,No
+12/G15,SR,M,85,13/02/18,13,24.08,20.8,0,76,5,18,1.52,60,NA,kanuka,3.6,NA,NA,NA,No
+12/G15,SR,M,85,14/02/18,2308,46.92,18.9,0,85,1,19,1.15,79,NA,kanuka,3.6,NA,NA,NA,No
+12/G15,SR,M,85,15/02/18,2346,24.63,19.9,0,87,1,20,1.1,252,2.38,kanuka,3.6,5 branch,down,moving,No
+12/G15,SR,M,85,17/02/18,1440,38.90,21.3,1,94,3,21,2.19,5,2.6,kanuka,3.6,3 branch,down,not moving,No
+12/G15,SR,M,85,18/02/18,1340,23.00,23.3,0,79,3,22,0.8,205,2.9,kanuka,3.6,2 branch,up,basking,No
+12/G15,SR,M,85,21/02/18,1320,71.67,19.5,14.4,64,1.5,23,1.23,208,2.27,kanuka,3.6,3 branch,up,moving,No
+12/G15,SR,M,85,22/02/18,1400,24.67,17.2,0,69,7.5,24,1.35,20,2.95,kanuka,3.6,3 branch,up,moving,Yes
+13/Onaji,SR,F,83,19/01/18,130,NA,21.1,0.2,89,0,0,NA,NA,1.7,OLE,2.5,2 branch,NA,NA,Yes
+13/Onaji,SR,F,83,20/01/18,2215,44.75,22.1,0,70,8,1,7.7,290,NA,OLE,3.61,?foliage,NA,NA,No
+13/Onaji,SR,F,83,21/01/18,1210,13.92,24.1,0,76,4,2,3.8,200,1.75,kanuka,3.52,1 branch,NA,NA,Yes
+13/Onaji,SR,F,83,21/01/18,18,12.13,20.1,0,89,8,3,1.5,70,NA,kanuka,3.52,NA,NA,NA,No
+13/Onaji,SR,F,83,22/01/18,1612,15.90,22.5,0,78,7.5,4,3.4,230,NA,kanuka,NA,NA,NA,NA,No
+13/Onaji,SR,F,83,23/01/18,1600,23.80,23.6,0,78,6,5,12.8,170,NA,PITten,2.9,NA,NA,NA,No
+13/Onaji,SR,F,83,23/01/18,45,8.75,22.2,0,82,8,6,2,120,NA,PITten,2.9,?foliage,NA,NA,No
+13/Onaji,SR,F,83,24/01/18,1554,15.15,26.3,0,70,0.5,7,1.1,317.5,1.1,PITten,2.9,2 branch,down,not moving,No
+13/Onaji,SR,F,83,28/01/18,2340,103.77,20.2,0,87,2,8,2.1,157.5,NA,PITten,NA,NA,NA,NA,No
+13/Onaji,SR,F,83,29/01/18,1611,16.52,24.3,0,69,0,9,3.55,312,1.05,PITten,2.9,3 branch,NA,NA,No
+13/Onaji,SR,F,83,30/01/18,1446,22.58,24.3,0,75,7,10,0,NA,1.05,PITten,2.9,3 branch,down,not moving,Yes
+13/Onaji,SR,F,83,2/02/18,1342,70.93,21.3,0,66,6.5,11,0,NA,1.05,PITten,2.9,3 branch,NA,NA,No
+13/Onaji,SR,F,83,2/02/18,2318,9.60,15.1,0,71,7,12,1,200,NA,PITten,2.9,?foliage,NA,NA,No
+13/Onaji,SR,F,83,3/02/18,1328,14.17,17.4,0,61,7.5,13,1,353,1.05,PITten,2.9,3 branch,down,not moving,No
+13/Onaji,SR,F,83,3/02/18,15,10.78,14,0,62,1,14,0.3,270,0.9,kanuka,2.9,?branch,NA,NA,No
+13/Onaji,SR,F,83,18/02/18,1425,350.17,23.3,0,79,3,15,0.3,90,1.05,PITten,2.9,3 branch,down,not moving,Yes
+13/Onaji,SR,F,83,21/02/18,1338,71.22,19.5,14.4,64,1.5,16,0,NA,NA,PITten,2.9,?foliage,NA,NA,No
+13/Onaji,SR,F,83,22/02/18,1450,25.20,17.2,0,69,7.5,17,1.55,230,1.21,PITten,2.9,2 branch,NA,NA,No
+13/Onaji,SR,F,83,24/02/18,17,33.45,19.5,0,73,5,18,3.2,220,NA,OLE,3.3,?foliage,NA,NA,No
+13/Onaji,SR,F,83,24/02/18,1520,15.05,22,0,69,1,19,2.5,40,NA,OLE,3.4,?foliage,NA,NA,No
+13/Onaji,SR,F,83,25/02/18,115,9.92,19.2,3.4,78,7,20,6.8,100,NA,OLE,3.6,NA,NA,NA,No
+13/Onaji,SR,F,83,25/02/18,1430,13.25,21.2,3.4,53,4,21,11.3,280,1,PITten,3.3,foam cover,NA,not moving,No
+13/Onaji,SR,F,83,26/02/18,2305,32.58,15,6,66,1,22,9.2,120,NA,OLE,3.5,?foliage,NA,NA,No
+13/Onaji,SR,F,83,27/02/18,1457,15.87,19.1,6.2,54,4,23,2.6,60,1.8,OLE,3.3,2 branch,down,not moving,No
+13/Onaji,SR,F,83,28/02/18,2249,31.87,17.1,0.2,92,8,24,0.75,350,NA,OLE,3.3,NA,NA,NA,No
+13/Onaji,SR,F,83,1/03/18,2350,25.02,17.5,0,82,8,25,9.12,74,3.27,PITten,3.64,foliage,NA,NA,No
+13/Onaji,SR,F,83,2/03/18,1401,14.18,23.2,0,70,8,26,3.24,78,3.13,PITten,3.56,4 branch,up,not moving,Yes
+13/Onaji,SR,F,83,4/03/18,0,33.98,19.7,0,75,5,27,0.42,302,NA,PITten,3.56,?foliage,NA,NA,No
+13/Onaji,SR,F,83,5/03/18,1542,39.70,21.4,0,76,8,28,5.88,290,NA,kanuka,3.33,NA,NA,NA,No
+13/Onaji,SR,F,83,7/03/18,2323,55.68,13.6,3,83,6,29,8.65,225,1.5,OLE,3.67,1 branch,up,not moving,Yes
+14/G13or16,SR,M,79,23/01/18,1536,NA,23.6,0,78,6,0,NA,NA,2.1,OLE,3.4,1 branch,NA,NA,No
+14/G13or16,SR,M,79,23/01/18,26,8.83,22.2,0,82,8,1,7.8,220,NA,Coprabrara,3.2,?foliage,NA,NA,No
+14/G13or16,SR,M,79,24/01/18,1530,15.07,26.3,0,70,0.5,2,3.45,150,NA,Coprabrara,3.2,NA,NA,NA,No
+14/G13or16,SR,M,79,28/01/18,1539,96.15,26.5,0,63,0,3,1.55,202,0,UNID5,2.4,ground,NA,NA,No
+15/G10,SR,F,82,24/01/18,30,NA,21.1,0,90,0.5,0,NA,NA,3.3,kanuka,3.7,foliage,NA,NA,No
+15/G10,SR,F,82,28/01/18,1608,111.63,26.5,0,63,0,1,7.6,302,NA,kanuka,4.9,NA,NA,NA,No
+15/G10,SR,F,82,29/01/18,1517,23.15,24.3,0,69,0,2,7.3,150,3.3,kanuka,3.8,5 branch,up,not moving,No
+15/G10,SR,F,82,30/01/18,1349,22.53,24.3,0,75,7,3,0.35,350,3.7,kanuka,3.8,3 branch,NA,NA,No
+15/G10,SR,F,82,2/02/18,1316,71.45,21.3,0,66,6.5,4,4.33,320,1.4,PITten,3.5,4 branch,NA,NA,No
+16/G38,SR,F,84,28/01/18,1627,NA,26.5,0,63,0,0,NA,NA,3.1,kanuka,4,2 branch,down,not moving,maybe
+16/G38,SR,F,84,29/01/18,2341,31.23,21.2,0,83,0,1,4.1,11,2.9,kanuka,3.3,foliage,up,moving,No
+16/G38,SR,F,84,30/01/18,1325,13.73,24.3,0,75,7,2,0.6,163,NA,kanuka,3.3,NA,NA,NA,No
+16/G38,SR,F,84,30/01/18,2325,10.00,21.2,0,88,6,3,3.4,60,2.7,kanuka,3.7,branchlettes,horizontal,not moving,No
+16/G38,SR,F,84,2/02/18,1234,61.15,21.3,0,66,6.5,4,4.7,49,NA,kanuka,3.4,?foliage,NA,NA,No
+16/G38,SR,F,84,2/02/18,2230,9.93,15.1,0,71,7,5,1.2,338,1.12,kanuka,3.4,2 branch,up,moving,maybe
+16/G38,SR,F,84,3/02/18,1425,15.92,17.4,0,61,7.5,6,1.4,342,NA,kanuka,3.6,NA,NA,NA,No
+16/G38,SR,F,84,3/02/18,2350,9.42,14,0,62,1,7,2.65,160,NA,kanuka,3.55,?foliage,NA,NA,No
+16/G38,SR,F,84,6/02/18,1233,60.72,22.6,0,53,0.5,8,9.3,210,2.98,kanuka,3.82,2 branch,up,basking,No
+16/G38,SR,F,84,8/02/18,2320,58.78,17.6,0,62,0,9,2.95,47,NA,kanuka,3.5,?foliage,NA,NA,No
+16/G38,SR,F,84,12/02/18,2346,96.43,21.1,0,90,7,10,2.6,318,NA,kanuka,3.9,?foliage,NA,NA,No
+16/G38,SR,F,84,13/02/18,2254,23.13,20.8,0,76,5,11,2.5,18,NA,kanuka,3.67,NA,NA,NA,No
+16/G38,SR,F,84,14/02/18,1559,17.08,23.4,0,70,8,12,2.63,215,NA,kanuka,3.61,NA,NA,NA,No
+16/G38,SR,F,84,15/02/18,2322,31.38,19.9,0,87,1,13,1.15,280,1.6,kanuka,3.61,2 branch,up,not moving,No
+16/G38,SR,F,84,17/02/18,1559,40.62,21.3,1,94,3,14,0.72,80,NA,kanuka,3.61,NA,NA,NA,No
+16/G38,SR,F,84,18/02/18,2258,30.98,20.7,0,81,0,15,0,NA,NA,kanuka,3.61,NA,NA,NA,No
+16/G38,SR,F,84,19/02/18,1351,14.88,23.5,33.8,67,8,16,0.24,240,2.1,kanuka,3.61,2 branch,NA,NA,No
+16/G38,SR,F,84,21/02/18,1512,49.35,19.5,14.4,64,1.5,17,1.36,129,2.14,kanuka,3.61,2 branch,down,not moving,No
+16/G38,SR,F,84,22/02/18,1256,21.73,17.2,0,69,7.5,18,0.49,24,NA,kanuka,3.61,NA,NA,NA,No
+16/G38,SR,F,84,23/02/18,1550,26.90,20.6,0,67,6,19,0,NA,NA,kanuka,3.61,NA,NA,NA,No
+16/G38,SR,F,84,24/02/18,42,8.87,19.5,0,73,5,20,0,NA,NA,kanuka,3.61,NA,NA,NA,No
+16/G38,SR,F,84,24/02/18,1250,12.13,22,0,69,1,21,1.7,230,2.9,UNIDX,NA,2 branch,up,basking,No
+16/G38,SR,F,84,28/02/18,1200,95.17,21.2,0.2,81,8,22,0.8,90,2.7,kanuka,3.8,NA,NA,NA,No
+16/G38,SR,F,84,2/03/18,1515,51.25,23.2,0,70,8,23,,,1.64,kanuka,4.2,2 branch,up,not moving,No
+16/G38,SR,F,84,2/03/18,2350,8.58,17.5,0,82,7.5,24,0.82,83,2.73,kanuka,4.2,3 branch,up,not moving,Yes
+16/G38,SR,F,84,4/03/18,1443,38.88,25.1,0,61,1,25,3,211,NA,kanuka,3.71,NA,NA,NA,No
+16/G38,SR,F,84,4/03/18,14,9.52,19.7,0,75,5,26,1.33,330,3.16,kanuka,3.86,3 branch,up,moving,No
+16/G38,SR,F,84,5/03/18,1250,12.60,21.4,0,76,8,27,8.43,2,1.42,kanuka,3.53,2 branch,up,moving,Yes
+2/G12,SR,F,76,14/01/18,1115,NA,27.3,0,58,0,0,NA,NA,1.2,kanuka,NA,foam cover,NA,NA,Yes
+2/G12,SR,F,76,15/01/18,1400,26.75,29.8,0.2,55,3,1,3.1,0,2.3,kanuka,3,branch,NA,moving,No
+2/G12,SR,F,76,15/01/18,10,10.17,20.6,0.2,80,0,2,2.8,150,NA,kanuka,3,NA,NA,NA,No
+2/G12,SR,F,76,16/01/18,1500,14.83,25.9,0,56,6,3,0,0,NA,kanuka,3,NA,NA,NA,No
+2/G12,SR,F,76,17/01/18,1618,25.30,24.9,24.6,52,8,4,3.3,320,NA,kanuka,3,NA,NA,NA,No
+2/G12,SR,F,76,19/01/18,1050,42.53,20.3,0.2,95,7,5,2.1,90,3.4,kanuka,3.5,?foliage,NA,NA,No
+2/G12,SR,F,76,20/01/18,1350,27.00,23.8,0,74,2,6,0.9,170,2,kanuka,3.6,2 branch,NA,NA,Yes
+2/G12,SR,F,76,21/01/18,1543,25.88,24.1,0,76,4,7,1,0,2.7,kanuka,3.5,2 branch,NA,NA,No
+2/G12,SR,F,76,22/01/18,1808,26.42,22.5,0,78,7.5,8,3.5,202,NA,Ngaio,4,NA,NA,NA,No
+2/G12,SR,F,76,23/01/18,2325,29.28,22.2,0,82,8,9,5.8,350,NA,?,NA,NA,NA,NA,No
+2/G12,SR,F,76,24/01/18,1334,14.15,26.3,0,70,0.5,10,1.4,252.5,NA,Ngaio,3.6,NA,NA,NA,No
+2/G12,SR,F,76,24/01/18,2334,10.00,21.1,0,90,0.5,11,2.7,200,NA,COProb,NA,NA,NA,NA,No
+2/G12,SR,F,76,28/01/18,1230,84.93,26.5,0,63,0,12,5.25,202,1.86,kanuka,3.5,2 branch,up,moving,maybe
+2/G12,SR,F,76,29/01/18,2210,33.67,21.2,0,83,0,13,2.5,72,NA,kanuka,3.5,NA,NA,NA,No
+2/G12,SR,F,76,30/01/18,1529,17.32,24.3,0,75,7,14,6.2,302,NA,PITten,3.75,NA,NA,NA,No
+2/G12,SR,F,76,30/01/18,16,8.78,21.2,0,88,6,15,2.7,286,NA,PITten,3.75,NA,NA,NA,No
+2/G12,SR,F,76,1/02/18,1325,37.15,24.1,27.2,73,8,16,7.55,120,1.6,Ngaio,3.55,foam cover,up,not moving,Yes
+2/G12,SR,F,76,2/02/18,1532,26.12,21.3,0,66,6.5,17,8.95,175,3.45,Ngaio,3.65,4 branch,down,not moving,No
+2/G12,SR,F,76,2/02/18,9,8.62,15.1,0,71,7,18,2.9,98,NA,PITten,3.7,NA,NA,NA,No
+2/G12,SR,F,76,3/02/18,1316,13.12,17.4,0,61,7.5,19,3.7,335,NA,kanuka,3.8,NA,NA,NA,No
+2/G12,SR,F,76,3/02/18,2305,9.82,14,0,62,1,20,1.2,340,NA,UNID10,4.45,NA,NA,NA,No
+2/G12,SR,F,76,5/02/18,13,25.13,18.8,0,77,0,21,9.6,308,NA,kanuka,3.41,?foliage,NA,NA,No
+2/G12,SR,F,76,6/02/18,1453,38.67,22.6,0,53,0.5,22,2.3,290,2.4,kanuka,3.5,4 branch,up,basking,No
+2/G12,SR,F,76,8/02/18,2259,56.10,17.6,0,62,0,23,2.25,130,NA,kanuka,3.8,NA,NA,NA,No
+2/G12,SR,F,76,12/02/18,46,73.78,21.1,0,90,7,24,0.9,322,NA,kanuka,3.8,NA,NA,NA,No
+2/G12,SR,F,76,13/02/18,1404,37.30,24.1,0,75,6,25,0.6,303,NA,kanuka,3.8,NA,NA,NA,No
+2/G12,SR,F,76,14/02/18,2356,33.87,18.9,0,85,1,26,0.35,105,NA,kanuka,3.8,NA,NA,NA,No
+2/G12,SR,F,76,15/02/18,2245,22.82,19.9,0,87,1,27,4.25,54,1.68,Ngaio,3.92,2 branch,down,moving,maybe
+2/G12,SR,F,76,17/02/18,147,27.03,20.3,1,95,7,28,3.63,247,NA,kanuka,3.65,NA,NA,NA,No
+2/G12,SR,F,76,18/02/18,1241,34.90,23.3,0,79,3,29,2.25,273,NA,kanuka,3.37,NA,NA,NA,No
+2/G12,SR,F,76,19/02/18,1429,25.80,23.5,33.8,67,8,30,0.5,230,NA,kanuka,3.37,NA,NA,NA,No
+2/G12,SR,F,76,22/02/18,1227,69.97,17.2,0,69,7.5,31,3.25,24,2.68,kanuka,3.63,2 branch,down,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,5/02/18,1450,NA,23.4,0,61,1.5,1,12.2,330,0,grass,NA,long grass,horizontal,moving,Yes
+21/Neilla de Grasse Treeson,HR,F,81,6/02/18,2300,32.17,14.3,0,73,1,2,0.64,68,0,grass,NA,long grass,horizontal,moving,Yes
+21/Neilla de Grasse Treeson,HR,F,81,7/02/18,1303,14.05,25.7,0,43,5,3,0,NA,0,grass,NA,long grass,horizontal,not moving,Yes
+21/Neilla de Grasse Treeson,HR,F,81,8/02/18,1531,26.47,25.8,0,44,2,4,0,NA,0,grass,NA,long grass,horizontal,moving,Yes
+21/Neilla de Grasse Treeson,HR,F,81,12/02/18,1406,94.58,22.1,0,92,8,5,8.82,85,0,grass,NA,long grass,horizontal,moving,Yes
+21/Neilla de Grasse Treeson,HR,F,81,13/02/18,1259,22.88,24.1,0,75,6,6,0.5,347,0,grass,NA,long grass,horizontal,moving,Yes
+21/Neilla de Grasse Treeson,HR,F,81,14/02/18,2331,34.53,18.9,0,85,1,7,0.65,159,0,grass,NA,long grass,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,15/02/18,1232,13.02,22.6,0,70,0.5,8,0,NA,0,grass,NA,long grass,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,17/02/18,1409,49.62,21.3,1,94,3,9,0,NA,0,grass,NA,long grass,horizontal,moving,Yes
+21/Neilla de Grasse Treeson,HR,F,81,18/02/18,2352,33.72,20.7,0,81,0,10,2.25,260,0,grass,NA,long grass,horizontal,moving,Yes
+21/Neilla de Grasse Treeson,HR,F,81,19/02/18,1254,13.03,23.5,33.8,67,8,11,3.92,305,NA,kanuka,3.96,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,21/02/18,1431,49.62,19.5,14.4,64,1.5,12,1.7,307,NA,kanuka,3.96,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,22/02/18,1315,22.73,17.2,0,69,7.5,13,2.32,144,NA,kanuka,3.96,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,23/02/18,1630,27.25,20.6,0,67,6,14,0.9,340,NA,kanuka,3.96,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,24/02/18,1333,21.05,22,0,69,1,15,1.8,260,NA,kanuka,NA,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,24/02/18,2245,9.20,19.2,0,78,7,16,3.1,70,NA,kanuka,3.96,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,25/02/18,1340,14.92,21.2,3.4,53,4,17,0.8,220,NA,kanuka,3.96,?foliage,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,25/02/18,2239,8.98,18.8,3.4,64,1,18,2.1,250,NA,kanuka,4,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,26/02/18,1604,17.42,15,6,66,1,19,1.45,60,1.5,kanuka,4,2 branch,down,not moving,No
+21/Neilla de Grasse Treeson,HR,F,81,27/02/18,1308,21.07,19.1,6.2,54,4,20,1.55,180,NA,kanuka,4.5,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,28/02/18,1150,22.70,21.2,0.2,81,8,21,0.7,140,2.8,kanuka,3.9,2 branch,down,not moving,No
+21/Neilla de Grasse Treeson,HR,F,81,28/02/18,5,12.25,17.1,0.2,92,8,22,2.31,170,NA,kanuka,NA,?foliage,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,1/03/18,1353,13.80,23.2,0,66,6,23,1.43,335,NA,kanuka,3.9,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,2/03/18,1440,24.78,23.2,0,70,8,24,1.73,60,NA,kanuka,4.29,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,2/03/18,2340,9.00,17.5,0,82,7.5,25,0,NA,NA,kanuka,4.29,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,4/03/18,1340,38.00,25.1,0,61,1,26,0.86,277,NA,kanuka,4.18,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,5/03/18,1421,24.68,21.4,0,76,8,27,1.04,77,NA,kanuka,4.29,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,7/03/18,2357,57.60,13.6,3,83,6,28,1.08,250,NA,kanuka,4.29,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,8/03/18,1428,14.52,15.5,0,83,8,29,2.19,74,NA,kanuka,4.02,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,8/03/18,2250,8.37,15.2,0,76,6,30,2.52,348,NA,kanuka,4.03,NA,NA,NA,No
+21/Neilla de Grasse Treeson,HR,F,81,9/03/18,1318,14.47,17.8,1.8,69,2,31,3.22,166,3.33,kanuka,4.02,3 branch,NA,NA,No
+22/Scarpa,HR,M,77,5/02/18,1526,NA,23.4,0,61,1.5,1,18.1,310,1.65,Ngaio,3,3 branch,up,not moving,No
+22/Scarpa,HR,M,77,6/02/18,2335,32.15,14.3,0,73,1,2,25.75,298,0,grass,NA,long grass,horizontal,moving,Yes
+22/Scarpa,HR,M,77,7/02/18,1246,13.18,25.7,0,43,5,3,1.5,122,2.45,Ngaio,3.26,4 branch,horizontal,not moving,Yes
+22/Scarpa,HR,M,77,8/02/18,1629,27.72,25.8,0,44,2,4,1.1,0,NA,Ngaio,3.26,NA,NA,NA,No
+22/Scarpa,HR,M,77,12/02/18,1258,92.48,22.1,0,92,8,5,1.75,305,NA,Ngaio,3.26,NA,NA,NA,No
+22/Scarpa,HR,M,77,13/02/18,1248,23.83,24.1,0,75,6,6,3.5,300,NA,kanuka,3.75,NA,NA,NA,No
+22/Scarpa,HR,M,77,13/02/18,1554,3.10,24.1,0,75,6,7,3.8,62,NA,Ngaio,3.26,NA,NA,NA,No
+22/Scarpa,HR,M,77,13/02/18,2323,7.48,20.8,0,76,5,8,3.3,296,NA,kanuka,3.75,NA,NA,NA,No
+22/Scarpa,HR,M,77,14/02/18,1333,14.17,23.4,0,70,8,9,1.6,195,NA,kanuka,3.26,NA,NA,NA,No
+22/Scarpa,HR,M,77,15/02/18,1550,26.28,22.6,0,70,0.5,10,0,NA,NA,kanuka,3.26,NA,NA,NA,No
+22/Scarpa,HR,M,77,15/02/18,20,8.50,19.9,0,87,1,11,8.72,10,2.19,kanuka,3.68,1 branch,down,not moving,Yes
+22/Scarpa,HR,M,77,17/02/18,1539,39.32,21.3,1,94,3,12,2.26,249,2.14,UNID14,3.67,4 branch,up,not moving,No
+22/Scarpa,HR,M,77,18/02/18,1501,23.37,23.3,0,79,3,13,1.4,40,NA,kanuka,3.68,NA,NA,NA,No
+22/Scarpa,HR,M,77,19/02/18,1318,22.28,23.5,33.8,67,8,14,3.32,208,1.3,kanuka,3.97,1 branch,NA,NA,No
+22/Scarpa,HR,M,77,21/02/18,1502,49.73,19.5,14.4,64,1.5,15,1.98,354,2.4,UNID14,3.72,2 branch,down,not moving,No
+22/Scarpa,HR,M,77,22/02/18,1259,21.95,17.2,0,69,7.5,16,0.61,50,2.53,UNID14,3.72,3 branch,down,not moving,No
+22/Scarpa,HR,M,77,23/02/18,1655,27.93,19.5,0,73,5,17,3.7,100,NA,kanuka,3.7,?foliage,NA,NA,No
+22/Scarpa,HR,M,77,24/02/18,1540,22.75,22,0,69,1,18,3.4,220,NA,kanuka,3.8,NA,NA,NA,No
+22/Scarpa,HR,M,77,24/02/18,2319,7.65,19.2,0,78,7,19,3.6,70,NA,kanuka,3.7,NA,NA,NA,No
+22/Scarpa,HR,M,77,25/02/18,1408,14.82,21.2,3.4,53,4,20,2.9,20,NA,kanuka,3.7,?foliage,NA,NA,No
+22/Scarpa,HR,M,77,25/02/18,2255,8.78,18.8,3.4,64,1,21,3,220,NA,kanuka,3.9,2 branch,up,not moving,No
+22/Scarpa,HR,M,77,26/02/18,2239,23.73,15,6,66,1,22,2.5,290,2.1,PITeug,3.9,branch,up,not moving,No
+22/Scarpa,HR,M,77,27/02/18,1316,14.62,19.1,6.2,54,4,23,0,NA,1,PITten,3.9,branch,down,not moving,No
+22/Scarpa,HR,M,77,28/02/18,1220,23.07,21.2,0.2,81,8,24,1.6,260,2.1,kanuka,4,2 branch,down,not moving,No
+22/Scarpa,HR,M,77,28/02/18,25,12.08,17.1,0.2,92,8,25,1.07,26,NA,kanuka,4,NA,NA,NA,No
+22/Scarpa,HR,M,77,1/03/18,1340,13.25,23.2,0,66,6,26,1.24,226,NA,kanuka,3.82,NA,NA,NA,No
+22/Scarpa,HR,M,77,2/03/18,1500,25.33,23.2,0,70,8,27,0.35,310,NA,kanuka,3.82,NA,NA,NA,No
+22/Scarpa,HR,M,77,2/03/18,2318,8.30,17.5,0,82,7.5,28,2.33,160,2.2,kanuka,3.71,3 branch,up,moving,No
+22/Scarpa,HR,M,77,4/03/18,1515,39.95,25.1,0,61,1,29,1.74,157,3.38,kanuka,3.84,4 branch,up,not moving,No
+22/Scarpa,HR,M,77,5/03/18,1325,22.17,21.4,0,76,8,30,4,345,2.12,kanuka,3.56,2 branch,up,not moving,Yes
+23/Ookami,HR,M,83,5/02/18,1556,NA,23.4,0,61,1.5,1,11.9,205,1.75,PITten,3,2 branch,up,not moving,No
+23/Ookami,HR,M,83,6/02/18,16,8.33,14.3,0,73,1,2,30.8,98,NA,Ngaio,2.3,NA,NA,NA,No
+23/Ookami,HR,M,83,7/02/18,1351,37.58,25.7,0,43,5,3,16.85,207,NA,kanuka,3.41,NA,NA,NA,No
+23/Ookami,HR,M,83,8/02/18,1615,26.40,25.8,0,44,2,4,1,310,NA,kanuka,3.41,NA,NA,NA,No
+23/Ookami,HR,M,83,12/02/18,1327,93.20,22.1,0,92,8,5,7.9,151,NA,PSEarb,3,NA,NA,NA,No
+23/Ookami,HR,M,83,13/02/18,2355,34.47,20.8,0,76,5,6,13,284,NA,UNID13,2.4,NA,NA,NA,No
+23/Ookami,HR,M,83,15/02/18,1410,38.25,23.4,0,70,8,7,0.95,85,NA,UNID6,2.72,NA,NA,NA,No
+23/Ookami,HR,M,83,17/02/18,2355,57.75,20.3,1,95,7,8,11.26,80,NA,PSEarb,3.28,NA,NA,NA,No
+23/Ookami,HR,M,83,18/02/18,1510,15.25,23.3,0,79,3,9,6.15,326,2.3,PITten,3.55,NA,down,not moving,Yes
+23/Ookami,HR,M,83,21/02/18,1305,69.92,19.5,14.4,64,1.5,10,5.99,245,NA,Ngaio,4.02,NA,NA,NA,No
+23/Ookami,HR,M,83,22/02/18,1336,24.52,17.2,0,69,7.5,11,4.23,198,1.68,kanuka,3.46,3 branch,down,not moving,Yes
+23/Ookami,HR,M,83,23/02/18,2330,33.90,19.5,0,73,5,12,9.3,310,3.1,PITten,3.3,foliage,horizontal,moving,No
+23/Ookami,HR,M,83,24/02/18,1440,15.17,22,0,69,1,13,0,NA,3.1,PITten,3.3,foliage,NA,NA,No
+23/Ookami,HR,M,83,25/02/18,2357,33.28,18.8,3.4,64,1,14,9.5,305,1.4,?,3.5,NA,NA,NA,No
+23/Ookami,HR,M,83,26/02/18,1713,17.27,15,6,66,1,15,2.3,285,NA,Ngaio,3.7,NA,NA,NA,No
+23/Ookami,HR,M,83,27/02/18,1215,19.03,19.1,6.2,54,4,16,6.3,210,2.1,COProb,2.6,trunk,up,not moving,No
+23/Ookami,HR,M,83,28/02/18,1420,26.08,21.2,0.2,81,8,17,0,NA,1.8,COProb,2.6,trunk,up,not moving,No
+23/Ookami,HR,M,83,1/03/18,1505,24.75,23.2,0,66,6,18,2.43,356,2.05,COProb,3.45,1 branch,up,moving,No
+23/Ookami,HR,M,83,2/03/18,58,9.88,17.5,0,82,7.5,19,16.98,124,NA,kanuka,3.23,NA,NA,NA,No
+23/Ookami,HR,M,83,4/03/18,1545,62.78,25.1,0,61,1,20,12.47,33,NA,kanuka,3.82,NA,NA,NA,No
+23/Ookami,HR,M,83,8/03/18,1340,93.92,15.5,0,83,8,21,17.83,230,NA,PITten,2.97,NA,NA,NA,No
+23/Ookami,HR,M,83,8/03/18,2340,10.00,15.2,0,76,6,22,6.44,203,0.7,NZ flax,1.78,flax leaf,horizontal,not moving,Yes
+26/Mokochi,HR,M,72,5/02/18,1236,NA,23.4,0,61,1.5,1,3.1,357,1.8,Ngaio,3.45,2 branch,down,moving,No
+26/Mokochi,HR,M,72,6/02/18,1613,27.62,22.6,0,53,0.5,2,18,280,1.67,Ngaio,4.45,1 branch,down,moving,No
+26/Mokochi,HR,M,72,7/02/18,1508,22.92,25.7,0,43,5,3,5.5,257,NA,kanuka,3.6,NA,NA,NA,No
+26/Mokochi,HR,M,72,8/02/18,1405,22.95,25.8,0,44,2,4,2.05,280,NA,kanuka,3.3,NA,NA,NA,No
+26/Mokochi,HR,M,72,12/02/18,1432,96.45,22.1,0,92,8,5,3.53,275,2.1,PITten,2.77,branchlettes,up,not moving,No
+26/Mokochi,HR,M,72,13/02/18,1415,23.72,24.1,0,75,6,6,16.7,347,2.65,Ngaio,4,5 branch,up,not moving,No
+26/Mokochi,HR,M,72,14/02/18,16,10.02,18.9,0,85,1,7,8.45,202,NA,Ngaio,3.93,NA,NA,NA,No
+26/Mokochi,HR,M,72,15/02/18,2305,46.82,19.9,0,87,1,8,3.8,172,1.46,Ngaio,3.6,foam cover,down,not moving,Yes
+26/Mokochi,HR,M,72,17/02/18,122,26.28,20.3,1,95,7,9,11.85,49,NA,OLE,3.67,NA,NA,NA,No
+26/Mokochi,HR,M,72,18/02/18,1259,35.62,23.3,0,79,3,10,2.23,328,2.48,Ngaio,3.89,3 branch,down,not moving,No
+26/Mokochi,HR,M,72,19/02/18,1444,25.75,23.5,33.8,67,8,11,11.66,259,NA,PITten,3.42,?foliage,NA,NA,No
+26/Mokochi,HR,M,72,21/02/18,1543,48.98,19.5,14.4,64,1.5,12,7.1,3,NA,Ngaio,3.43,NA,NA,NA,No
+26/Mokochi,HR,M,72,22/02/18,2231,30.80,13,0,70,1,13,2.4,81,NA,Ngaio,3.85,NA,NA,NA,No
+26/Mokochi,HR,M,72,23/02/18,1427,15.93,20.6,0,67,6,14,8.5,280,2.4,Ngaio,2.85,2 branch,horizontal,not moving,No
+26/Mokochi,HR,M,72,24/02/18,1559,25.53,22,0,69,1,15,8.4,150,1.7,Ngaio,2.9,2 branch,NA,NA,No
+26/Mokochi,HR,M,72,26/02/18,24,32.42,18.8,6,64,1,16,10.4,80,0.3,Ngaio,3.5,trunk,NA,not moving,No
+26/Mokochi,HR,M,72,26/02/18,1830,18.10,15,6,66,1,17,10.1,260,2.6,PITten,3.4,branch,NA,NA,No
+26/Mokochi,HR,M,72,27/02/18,1418,19.80,19.1,6.2,54,4,18,2.3,170,NA,kanuka,2.8,NA,NA,NA,No
+26/Mokochi,HR,M,72,28/02/18,1255,22.62,21.2,0.2,81,8,19,1.7,290,1.1,COP,1.4,NA,up,not moving,No
+26/Mokochi,HR,M,72,1/03/18,1535,26.67,23.2,0,66,6,20,1.35,130,NA,kanuka,3.22,NA,NA,NA,No
+26/Mokochi,HR,M,72,1/03/18,2320,7.75,17.5,0,82,8,21,0.6,110,2.41,kanuka,3.22,foliage,horizontal,moving,No
+26/Mokochi,HR,M,72,2/03/18,1342,14.37,23.2,0,70,8,22,1.72,310,NA,kanuka,3.48,NA,NA,NA,No
+26/Mokochi,HR,M,72,4/03/18,2319,57.62,19.7,0,75,5,23,1.47,331,NA,kanuka,3.07,NA,NA,NA,No
+26/Mokochi,HR,M,72,5/03/18,2356,24.62,20.5,0,80,0,24,0.57,145,NA,kanuka,3.29,NA,NA,NA,No
+26/Mokochi,HR,M,72,7/03/18,29,24.55,13.6,3,83,6,25,1.23,305,NA,kanuka,3.43,NA,NA,NA,No
+26/Mokochi,HR,M,72,8/03/18,1458,38.48,15.5,0,83,8,26,1.39,145,NA,kanuka,3.43,NA,NA,NA,No
+26/Mokochi,HR,M,72,8/03/18,24,9.43,15.2,0,76,6,27,1.42,336,NA,kanuka,3.29,NA,NA,NA,No
+26/Mokochi,HR,M,72,9/03/18,1423,13.98,17.8,1.8,69,2,28,1.5,172,0,ground,NA,ground,NA,NA,No
+27/Casper,HR,M,78,5/02/18,1256,NA,23.4,0,61,1.5,1,8.35,298,1.4,Ngaio,3.8,1 branch,up,not moving,No
+27/Casper,HR,M,78,6/02/18,1638,27.70,22.6,0,53,0.5,2,18.3,320,NA,KNIexc,3.93,NA,NA,NA,No
+27/Casper,HR,M,78,7/02/18,1448,22.17,25.7,0,43,5,3,2.1,65,NA,Ngaio,3.56,NA,NA,NA,No
+27/Casper,HR,M,78,8/02/18,1425,23.62,25.8,0,44,2,4,2.25,280,NA,kanuka,3.45,NA,NA,NA,No
+27/Casper,HR,M,78,12/02/18,1457,96.53,22.1,0,92,8,5,1.9,214,NA,kanuka,3.45,NA,NA,NA,No
+27/Casper,HR,M,78,13/02/18,1505,24.13,24.1,0,75,6,6,19.5,350,NA,Ngaio,4.1,NA,NA,NA,No
+27/Casper,HR,M,78,15/02/18,1435,47.50,22.6,0,70,0.5,7,19.2,303,2.15,kanuka,3.25,3 branch,down,moving,No
+27/Casper,HR,M,78,17/02/18,15,33.67,20.3,1,95,7,8,0.42,126,1.83,kanuka,3.25,4 branch,down,not moving,Yes
+27/Casper,HR,M,78,18/02/18,1321,37.10,23.3,0,79,3,9,1.82,85,NA,kanuka,3.25,NA,NA,NA,No
+27/Casper,HR,M,78,19/02/18,1403,24.70,23.5,33.8,67,8,10,16.66,212,0,grass,NA,long grass,horizontal,not moving,No
+27/Casper,HR,M,78,21/02/18,1522,49.32,19.5,14.4,64,1.5,11,18.65,347,1.61,kanuka,3.21,2 branch,up,not moving,No
+27/Casper,HR,M,78,22/02/18,2255,31.55,13,0,70,1,12,4.62,6,NA,UNID16,3.6,?foliage,NA,NA,No
+27/Casper,HR,M,78,23/02/18,1520,16.42,20.6,0,67,6,13,1.1,145,NA,kanuka,3.45,NA,NA,NA,No
+27/Casper,HR,M,78,24/02/18,1240,21.33,22,0,69,1,14,10.3,70,2.1,PITten,2.7,foliage,down,moving,No
+27/Casper,HR,M,78,25/02/18,34,11.90,19.2,3.4,78,7,15,23,150,2.4,Ngaio,4.3,2 branch,NA,NA,No
+27/Casper,HR,M,78,26/02/18,35,24.02,18.8,6,64,1,16,3.7,50,0.6,Ngaio,4.7,trunk,NA,not moving,No
+27/Casper,HR,M,78,26/02/18,1851,18.27,15,6,66,1,17,5,90,NA,Ngaio,4.5,NA,NA,NA,No
+27/Casper,HR,M,78,27/02/18,1441,19.83,19.1,6.2,54,4,18,1.6,300,NA,Ngaio,5,NA,NA,NA,No
+27/Casper,HR,M,78,28/02/18,1400,23.32,21.2,0.2,81,8,19,2.4,230,NA,Ngaio,5,NA,NA,NA,No
+27/Casper,HR,M,78,1/03/18,1315,23.25,23.2,0,66,6,20,1.98,318,NA,Ngaio,5,NA,NA,NA,No
+27/Casper,HR,M,78,2/03/18,2232,33.28,17.5,0,82,7.5,21,3.36,118,1.86,Ngaio,3.8,2 branch,up,moving,No
+27/Casper,HR,M,78,4/03/18,1320,38.80,25.1,0,61,1,22,9.11,241,NA,Ngaio,3.98,NA,NA,NA,No
+27/Casper,HR,M,78,5/03/18,2325,34.08,20.5,0,80,0,23,12.7,156,3.1,Ngaio,3.85,2 branch,up,moving,No
+27/Casper,HR,M,78,7/03/18,34,25.15,13.6,3,83,6,24,1.99,309,0.92,Ngaio,3.85,trunk,down,moving,No
+27/Casper,HR,M,78,8/03/18,1513,38.65,15.5,0,83,8,25,0.85,310,1,Ngaio,3.85,1 branch,up,not moving,No
+27/Casper,HR,M,78,8/03/18,33,9.33,15.2,0,76,6,26,0,NA,1.61,Ngaio,3.85,1 branch,up,moving,No
+27/Casper,HR,M,78,9/03/18,1400,13.45,17.8,1.8,69,2,27,1.73,110,3.06,Ngaio,3.85,3 branch,up,basking,No
+27/Casper,HR,M,78,9/03/18,2242,8.70,14.1,1.8,66,3,28,0.49,132,1.02,Ngaio,3.85,1 branch,up,moving,No
+27/Casper,HR,M,78,10/03/18,1330,14.80,17.8,0,62,6,29,2.4,136,2.92,Ngaio,3.85,2 branch,up,basking,Yes
+3/G28,SR,M,78,14/01/18,1155,NA,27.3,0,58,0,0,NA,NA,1.45,Ngaio,NA,foam cover,NA,NA,Yes
+3/G28,SR,M,78,15/01/18,30,12.58,20.6,0.2,80,0,1,3.3,140,2.2,kanuka,NA,branch,NA,NA,No
+3/G28,SR,M,78,15/01/18,1730,17.00,29.8,0.2,55,3,2,5.8,80,NA,Ngaio,NA,?foliage,NA,NA,No
+3/G28,SR,M,78,15/01/18,26,6.93,20.6,0.2,80,0,3,3.4,80,NA,Ngaio,3,NA,NA,NA,No
+3/G28,SR,M,78,16/01/18,1255,12.48,25.9,0,56,6,4,10.8,140,NA,UNIDx1,NA,NA,NA,NA,No
+3/G28,SR,M,78,16/01/18,2345,10.83,20,0,84,8,5,4.8,80,NA,Ngaio,3,3 branch,NA,NA,No
+3/G28,SR,M,78,18/01/18,1057,35.20,19.7,9,87,8,6,3.4,0,1.4,Ngaio,3,foam cover,NA,NA,No
+3/G28,SR,M,78,19/01/18,1225,25.47,20.3,0.2,95,7,7,1.2,100,3,Ngaio,5,2 branch,NA,NA,No
+3/G28,SR,M,78,20/01/18,12,11.78,22.1,0,70,8,8,3.7,310,NA,NA,NA,NA,NA,NA,No
+3/G28,SR,M,78,21/01/18,2250,46.63,20.1,0,89,8,9,NA,NA,NA,NA,NA,?foliage,NA,NA,No
+3/G28,SR,M,78,23/01/18,1200,37.17,23.6,0,78,6,10,2.8,290,NA,Ngaio,CD2 tree,NA,NA,NA,No
+3/G28,SR,M,78,24/01/18,1442,26.70,26.3,0,70,0.5,11,1.35,70,2.55,Ngaio,CD2 tree,2 branch,up,moving,No
+3/G28,SR,M,78,28/01/18,2250,104.13,20.2,0,87,2,12,4.45,312,2.1,Ngaio,2.8,branch,down,moving,No
+3/G28,SR,M,78,29/01/18,2240,23.83,21.2,0,83,0,13,6.9,112,3,PITten ,4.9,3 branch,up,moving,No
+3/G28,SR,M,78,30/01/18,2240,24.00,21.2,0,88,6,14,2.3,251,3.4,PITten,3.65,3 branch,down,moving,No
+3/G28,SR,M,78,1/02/18,1352,39.20,24.1,27.2,73,8,15,1.55,310,NA,PITten,3.65,NA,NA,NA,No
+3/G28,SR,M,78,2/02/18,1436,24.73,21.3,0,66,6.5,16,10.15,325,2.7,Ngaio,3.85,3 branch,up,moving,No
+3/G28,SR,M,78,3/02/18,1524,24.80,17.4,0,61,7.5,17,5.8,180,1.35,Ngaio,4.5,foam cover,down,not moving,No
+3/G28,SR,M,78,5/02/18,2337,56.22,18.8,0,77,0,18,0.5,10,2.67,Ngaio,4.5,2 branch,down,moving,No
+3/G28,SR,M,78,6/02/18,105,1.47,14.3,0,73,1,19,2.9,270,NA,Ngaio,4.5,NA,NA,NA,No
+3/G28,SR,M,78,7/02/18,15,23.17,15.7,0,65,0,20,3.6,330,1.9,Ngaio,3.1,2 branch,down,not moving,Yes
+3/G28,SR,M,78,8/02/18,107,24.87,17.6,0,62,0,21,2.7,118,1.41,Ngaio,5.1,2 branch,down,not moving,Yes
+3/G28,SR,M,78,12/02/18,2255,117.80,21.1,0,90,7,22,8.8,79,2.87,UNID6,3.43,2 branch,up,moving,No
+3/G28,SR,M,78,14/02/18,1349,38.90,23.4,0,70,8,23,3.26,90,0.4,ground,3.97,dead branch,down,not moving,Yes
+3/G28,SR,M,78,17/02/18,1401,72.20,21.3,1,94,3,23,12.12,258,NA,Ngaio,3.88,NA,NA,NA,No
+3/G28,SR,M,78,18/02/18,56,10.92,20.7,0,81,0,25,8.67,56,NA,UNID6,3.19,NA,NA,NA,No
+3/G28,SR,M,78,19/02/18,1230,35.57,23.5,33.8,67,8,26,9.11,315,0.86,UNID15,3.32,trunk,down,moving,No
+3/G28,SR,M,78,28/02/18,1330,217.00,21.2,0.2,81,8,27,7.2,150,1.3,Ngaio,5,foam cover,NA,not moving,Yes
+3/G28,SR,M,78,1/03/18,1250,23.33,23.2,0,66,6,28,2.21,299,3.9,Ngaio,5,5 branch,up,moving,No
+3/G28,SR,M,78,2/03/18,2245,33.92,17.5,0,82,7.5,29,11.67,308,1.26,Ngaio,3.87,2 branch,down,not moving,Yes
+3/G28,SR,M,78,4/03/18,1255,38.17,25.1,0,61,1,30,10.32,136,NA,Ngaio,4.33,NA,NA,NA,No
+3/G28,SR,M,78,5/03/18,2255,34.00,20.5,0,80,0,31,3.77,2,3.46,Ngaio,3.75,3 branch,horizontal,moving,No
+3/G28,SR,M,78,7/03/18,2228,47.55,13.6,3,83,6,32,3.8,235,1.95,Ngaio,5.22,2 branch,up,not moving,Yes
+4/G01,SR,F,83,15/01/18,130,NA,19.2,0.2,72,0,0,NA,NA,NA,kanuka,NA,foliage,NA,NA,Yes
+4/G01,SR,F,83,15/01/18,1600,14.50,29.8,0.2,55,3,1,2.4,250,NA,PITcra,NA,?foliage,NA,NA,No
+4/G01,SR,F,83,15/01/18,48,8.80,20.6,0.2,80,0,2,1.2,90,NA,Ngaio,NA,NA,NA,NA,No
+4/G01,SR,F,83,16/01/18,1750,17.03,25.9,0,56,6,3,6.6,310,NA,UNIDx2,3,NA,NA,NA,No
+4/G01,SR,F,83,17/01/18,1500,21.17,24.9,24.6,52,8,4,1.9,310,NA,kanuka,3,NA,NA,NA,No
+4/G01,SR,F,83,19/01/18,1140,44.67,20.3,0.2,95,7,5,3.1,120,3.9,kanuka,4.2,?foliage,NA,NA,No
+4/G01,SR,F,83,19/01/18,2308,11.47,21.1,0.2,89,0,6,1.45,130,NA,kanuka,3.5,?foliage,NA,NA,No
+4/G01,SR,F,83,20/01/18,1609,17.02,23.8,0,74,2,7,2.45,340,NA,kanuka,4,1 branch?,NA,NA,No
+4/G01,SR,F,83,21/01/18,1700,24.85,24.1,0,76,4,8,1.7,90,NA,kanuka,4,NA,NA,NA,No
+4/G01,SR,F,83,21/01/18,2335,6.58,20.1,0,89,8,9,1,340,NA,kanuka,,NA,NA,NA,No
+4/G01,SR,F,83,22/01/18,1407,14.53,22.5,0,78,7.5,10,0.9,80,3.8,kanuka,3.8,foliage,NA,NA,No
+4/G01,SR,F,83,8/03/18,1400,1079.88,15.5,0,83,8,11,3.09,11,1.86,kanuka,3.73,1 branch,down,not moving,Yes
+5/G32,SR,M,90,15/01/18,1540,NA,29.8,0.2,55,3,0,NA,NA,2.3,kanuka,2.860208622,branch,NA,NA,Yes
+5/G32,SR,M,90,15/01/18,48,-14.87,20.6,0.2,80,0,1,1.1,180,NA,kanuka,NA,?foliage,NA,NA,No
+5/G32,SR,M,90,16/01/18,,NA,25.9,0,56,6,2,2.8,350,NA,kanuka,3,NA,NA,NA,No
+5/G32,SR,M,90,17/01/18,1400,NA,24.9,24.6,52,8,3,0,NA,NA,kanuka,3,NA,NA,NA,No
+5/G32,SR,M,90,19/01/18,1130,45.50,20.3,0.2,95,7,4,4.3,280,2.5,kanuka,2.7,1 branch,NA,NA,No
+5/G32,SR,M,90,20/01/18,2346,36.27,22.1,0,70,8,5,2.6,40,NA,kanuka,NA,NA,NA,NA,No
+5/G32,SR,M,90,21/01/18,2320,23.57,20.1,0,89,8,6,7.2,140,NA,kanuka,2.860208622,?foliage,NA,NA,No
+5/G32,SR,M,90,22/01/18,1522,16.03,22.5,0,78,7.5,7,10.4,355,NA,kanuka,3.15,NA,NA,NA,No
+5/G32,SR,M,90,23/01/18,1340,22.30,23.6,0,78,6,8,2.9,0,NA,kanuka,3.4,NA,NA,NA,No
+5/G32,SR,M,90,23/01/18,0,10.33,22.2,0,82,8,9,0.4,230,1.7,kanuka,3.4,1 branch,up,moving,No
+5/G32,SR,M,90,24/01/18,10,0.17,21.1,0,90,0.5,10,10.7,210,NA,kanuka,NA,NA,NA,NA,No
+5/G32,SR,M,90,28/01/18,1435,110.42,26.5,0,63,0,11,13.2,40,2,kanuka,3.35,3 branch,up,moving,maybe
+5/G32,SR,M,90,29/01/18,2320,32.75,21.2,0,83,0,12,3.2,283,NA,kanuka,3.6,NA,NA,NA,No
+5/G32,SR,M,90,30/01/18,1255,13.58,24.3,0,75,7,13,0.8,220,1.65,kanuka,3.6,1 branch,down,moving,maybe
+5/G32,SR,M,90,2/02/18,1255,72.00,21.3,0,66,6.5,14,0.55,241,NA,kanuka,3.6,NA,NA,NA,No
+5/G32,SR,M,90,2/02/18,2246,9.85,15.1,0,71,7,15,0.95,330,3.6,kanuka,3.6,foliage,horizontal,moving,No
+5/G32,SR,M,90,3/02/18,1405,15.32,17.4,0,61,7.5,16,0,NA,NA,kanuka,3.6,NA,NA,NA,No
+5/G32,SR,M,90,3/02/18,2329,9.40,14,0,62,1,17,0.9,290,NA,kanuka,3.5,?foliage,NA,NA,No
+5/G32,SR,M,90,6/02/18,1303,61.57,22.6,0,53,0.5,18,4.3,90,NA,kanuka,3.71,NA,NA,NA,No
+5/G32,SR,M,90,8/02/18,2335,58.53,17.6,0,62,0,19,0.7,320,NA,kanuka,3.71,?foliage,NA,NA,No
+5/G32,SR,M,90,12/02/18,2332,95.95,21.1,0,90,7,20,0,NA,NA,kanuka,3.71,?foliage,NA,NA,No
+5/G32,SR,M,90,13/02/18,2307,23.58,20.8,0,76,5,21,1.62,230,NA,kanuka,3.67,NA,NA,NA,No
+5/G32,SR,M,90,14/02/18,1622,17.25,23.4,0,70,8,22,0.65,291,NA,kanuka,3.67,NA,NA,NA,No
+5/G32,SR,M,90,15/02/18,2337,31.25,19.9,0,87,1,23,3.1,42,1.95,kanuka,3.98,1 branch,NA,moving,maybe
+5/G32,SR,M,90,17/02/18,1530,39.88,21.3,1,94,3,24,5.6,188,NA,kanuka,4.1,NA,NA,NA,No
+5/G32,SR,M,90,18/02/18,2316,31.77,20.7,0,81,0,25,2.26,147,NA,PITten,3.83,?foliage,NA,NA,No
+5/G32,SR,M,90,19/02/18,1330,14.23,23.5,33.8,67,8,26,3.42,152,2.32,Ngaio,3.37,3 branch,up,not moving,Yes
+5/G32,SR,M,90,22/02/18,1244,71.23,17.2,0,69,7.5,27,3.31,288,NA,kanuka,3.77,NA,NA,NA,No
+5/G32,SR,M,90,22/02/18,2324,10.67,13,0,70,1,28,0.8,286,NA,kanuka,3.77,?foliage,NA,NA,No
+5/G32,SR,M,90,23/02/18,1520,15.93,20.6,0,67,6,29,1.3,150,2,kanuka,3.77,branchlettes,horizontal,not moving,Yes
+5/G32,SR,M,90,24/02/18,1310,21.83,22,0,69,1,30,8.1,30,NA,kanuka,4.6,NA,NA,NA,No
+5/G32,SR,M,90,25/02/18,2223,33.22,18.8,3.4,64,1,31,1.2,260,NA,kanuka,4.1,NA,NA,NA,No
+5/G32,SR,M,90,26/02/18,2235,24.20,15,6,66,1,32,2.2,240,NA,kanuka,4.1,?foliage,NA,NA,No
+5/G32,SR,M,90,27/02/18,1356,15.35,19.1,6.2,54,4,33,2,230,NA,kanuka,3.5,NA,NA,NA,No
+5/G32,SR,M,90,28/02/18,1230,22.57,21.2,0.2,81,8,34,1,330,2.1,kanuka,4.2,2 branch,up,not moving,No
+5/G32,SR,M,90,28/02/18,2327,10.95,17.1,0.2,92,8,35,1.36,306,NA,kanuka,4.2,NA,NA,NA,No
+5/G32,SR,M,90,1/03/18,1407,14.67,23.2,0,66,6,36,1.25,70,NA,kanuka,4.2,NA,NA,NA,No
+5/G32,SR,M,90,1/03/18,40,10.55,17.5,0,82,8,37,0.83,211,NA,kanuka,4.2,NA,NA,NA,No
+5/G32,SR,M,90,2/03/18,1521,14.68,23.2,0,70,8,38,1.51,352,NA,kanuka,4.2,?foliage,NA,NA,No
+5/G32,SR,M,90,2/03/18,23,9.03,17.5,0,82,7.5,39,0,NA,NA,kanuka,4.2,NA,NA,NA,No
+5/G32,SR,M,90,4/03/18,1358,37.58,25.1,0,61,1,40,0.6,139,NA,kanuka,4.2,NA,NA,NA,No
+5/G32,SR,M,90,4/03/18,35,10.62,19.7,0,75,5,41,0,NA,NA,kanuka,4.2,NA,NA,NA,No
+5/G32,SR,M,90,5/03/18,1401,13.43,21.4,0,76,8,42,0.86,252,1.71,kanuka,4.2,2 branch,up,not moving,Yes
+6/G18,SR,M,86,15/01/18,2218,NA,20.6,0.2,80,0,0,NA,NA,2.1,Ngaio,2.987274929,branch,NA,NA,Yes
+6/G18,SR,M,86,16/01/18,1800,19.70,25.9,0,56,6,1,4.9,120,2.4,PITten,3,3 branch,NA,NA,No
+6/G18,SR,M,86,16/01/18,100,7.00,20,0,84,8,2,3.9,310,NA,?,3,NA,NA,NA,No
+6/G18,SR,M,86,18/01/18,1325,36.42,19.7,9,87,8,3,3.6,252,3.3,kanuka,3.6,foliage,NA,NA,No
+6/G18,SR,M,86,19/01/18,1600,26.58,20.3,0.2,95,7,4,0.5,170,NA,kanuka,3.6,foliage,NA,NA,No
+6/G18,SR,M,86,19/01/18,220,10.33,21.1,0.2,89,0,5,1.6,290,NA,OLE,NA,?foliage,NA,NA,No
+6/G18,SR,M,86,20/01/18,2230,20.17,22.1,0,70,8,6,9,100,3.1,COProb,3.62,?foliage,NA,NA,No
+6/G18,SR,M,86,21/01/18,0,1.50,20.1,0,89,8,7,2.6,0,NA,PITten,3.1,foliage,NA,NA,No
+6/G18,SR,M,86,23/01/18,1230,60.50,23.6,0,78,6,8,2.3,310,2.6,PITten,3.6,2 branch,NA,NA,Yes
+6/G18,SR,M,86,24/01/18,1636,28.10,26.3,0,70,0.5,9,4,190,NA,PITten,2.75,NA,NA,NA,No
+6/G18,SR,M,86,28/01/18,2403,103.45,20.2,0,87,2,10,3.8,2.5,NA,PITten,3.4,NA,NA,NA,No
+6/G18,SR,M,86,29/01/18,1420,14.28,24.3,0,69,0,11,2.15,52,1.63,PITten,3.3,2 branch,up,moving,No
+6/G18,SR,M,86,30/01/18,1503,24.72,24.3,0,75,7,12,2.35,232,NA,kanuka,3.52,?foliage,NA,NA,No
+6/G18,SR,M,86,2/02/18,1422,71.32,21.3,0,66,6.5,13,2.3,250,NA,PITten,3.35,NA,NA,NA,No
+6/G18,SR,M,86,2/02/18,2340,9.30,15.1,0,71,7,14,3.2,292,NA,kanuka,3.5,NA,NA,NA,No
+6/G18,SR,M,86,3/02/18,1440,15.00,17.4,0,61,7.5,15,4.2,107,3.05,OLEpan,3.8,4 branch,up,moving,No
+6/G18,SR,M,86,3/02/18,26,9.77,14,0,62,1,16,0,NA,NA,OLEpan,3.8,?foliage,NA,NA,No
+6/G18,SR,M,86,5/02/18,2256,46.50,18.8,0,77,0,17,0.4,39,3.8,OLEpan,3.8,foliage,up,not moving,No
+6/G18,SR,M,86,6/02/18,1403,15.12,22.6,0,53,0.5,18,0.9,90,3.15,PITten,3.68,3 branch,up,moving,Yes
+6/G18,SR,M,86,8/02/18,35,34.53,17.6,0,62,0,19,2.5,280,NA,OLEpan,3.25,?foliage,NA,NA,No
+6/G18,SR,M,86,12/02/18,22,95.78,21.1,0,90,7,20,5.42,296,1.38,PITten,2.9,3 branch,down,not moving,Yes
+6/G18,SR,M,86,13/02/18,20,23.97,20.8,0,76,5,21,3.22,92,1.2,kanuka,3.46,branchlettes,down,moving,Yes
+6/G18,SR,M,86,14/02/18,2245,46.42,18.9,0,85,1,22,2.65,122,NA,OLEpan,3.25,NA,NA,NA,No
+6/G18,SR,M,86,15/02/18,0,1.25,19.9,0,87,1,23,1.2,16,3.25,OLEpan,3.25,foliage,NA,NA,No
+6/G18,SR,M,86,17/02/18,1451,62.85,21.3,1,94,3,24,1.18,292,2.9,PITten,3.49,branchlettes,horizontal,moving,No
+6/G18,SR,M,86,18/02/18,1354,23.05,23.3,0,79,3,25,4.88,45,2.68,PITten,3.45,3 branch,down,basking,No
+6/G18,SR,M,86,21/02/18,1348,71.90,19.5,14.4,64,1.5,26,4.22,235,2.7,OLEpan,3.59,2 branch,NA,NA,No
+6/G18,SR,M,86,22/02/18,1508,25.33,17.2,0,69,7.5,27,3.24,77,2.35,PITten,3.31,2 branch,up,not moving,Yes
+6/G18,SR,M,86,24/02/18,5,32.95,19.5,0,73,5,28,1.7,130,NA,OLE,3.4,?foliage,NA,NA,No
+6/G18,SR,M,86,24/02/18,1506,15.02,22,0,69,1,29,6.1,280,NA,Ngaio,3.5,NA,NA,NA,No
+6/G18,SR,M,86,25/02/18,100,9.90,19.2,3.4,78,7,30,1.8,140,NA,OLE,3.5,?foliage,NA,NA,No
+6/G18,SR,M,86,25/02/18,1425,13.42,21.2,3.4,53,4,31,0.8,310,2.4,PITten,3.3,branchlettes,down,not moving,Yes
+6/G18,SR,M,86,26/02/18,2320,32.92,15,6,66,1,32,2,240,NA,PITten,3.5,?foliage,NA,NA,No
+6/G18,SR,M,86,27/02/18,1520,16.00,19.1,6.2,54,4,33,2.7,140,NA,PITten,3.5,NA,NA,NA,No
+6/G18,SR,M,86,28/02/18,2304,31.73,21.2,0.2,81,8,34,1.22,223,NA,PITten,3.5,NA,NA,NA,No
+6/G18,SR,M,86,1/03/18,10,1.10,17.5,0,82,8,35,1.27,197,NA,OLE,4.02,?foliage,NA,NA,No
+6/G18,SR,M,86,2/03/18,1352,37.70,23.2,0,70,8,36,5.88,322,1.3,PITten,2.9,3 branch,up,not moving,Yes
+6/G18,SR,M,86,4/03/18,2340,57.80,19.7,0,75,5,37,7.5,72,NA,Ngaio,3.93,NA,NA,NA,No
+6/G18,SR,M,86,5/03/18,1513,15.55,21.4,0,76,8,38,6.3,186,1.62,kanuka,3.24,2 branch,up,not moving,Yes
+7/G27,SR,F,80,16/01/18,1130,NA,25.9,0,56,6,0,NA,NA,1.3,UNIDx1,NA,foam cover,NA,NA,Yes
+7/G27,SR,F,80,16/01/18,2330,12.00,20,0,84,8,1,4.1,180,NA,Ngaio,3,NA,NA,NA,No
+7/G27,SR,F,80,18/01/18,1140,36.17,19.7,9,87,8,2,5.2,320,1.7,Ngaio,3,2 branch,NA,NA,No
+7/G27,SR,F,80,19/01/18,1424,26.73,22.8,0.2,95,3,3,3.6,330,NA,Ngaio,3,foliage,NA,NA,No
+7/G27,SR,F,80,19/01/18,2319,8.92,21.1,0.2,89,0,4,1.7,20,3.7,Ngaio,NA,2 branch,NA,NA,No
+7/G27,SR,F,80,20/01/18,1615,16.93,23.8,0,74,2,5,1.4,80,NA,Ngaio,NA,NA,NA,NA,No
+7/G27,SR,F,80,25/02/18,1618,864.05,21.2,3.4,53,4,6,NA,NA,1.4,Ngaio,5,foam cover,NA,not moving,Yes
+8/G11?,SR,M,88,16/01/18,1520,NA,25.9,0,56,6,0,NA,NA,1.6,kanuka,3,2 branch,NA,NA,Yes
+8/G11?,SR,M,88,17/01/18,1434,23.23,24.9,24.6,52,8,1,3.2,60,1.2,kanuka,3,1 branch,down,moving,No
+8/G11?,SR,M,88,19/01/18,1122,44.80,20.3,0.2,95,7,2,1,200,2.4,kanuka,3.5,branch,NA,NA,No
+8/G11?,SR,M,88,19/01/18,27,13.08,21.1,0.2,89,0,3,3.8,70,3.3,Ngaio,NA,2 branch,NA,NA,No
+8/G11?,SR,M,88,20/01/18,1450,14.38,23.8,0,74,2,4,5.9,340,2.6,Ngaio,NA,NA,NA,NA,No
+8/G11?,SR,M,88,21/01/18,1523,24.55,24.1,0,76,4,5,11.2,202.5,NA,UNID4,3.4,NA,NA,NA,No
+8/G11?,SR,M,88,22/01/18,1720,25.95,22.5,0,78,7.5,6,8.5,80,1,Dead tree,2,branch,down,moving,maybe
+8/G11?,SR,M,88,23/01/18,2342,30.37,22.2,0,82,8,7,3.6,50,3.25,Ngaio,4.4,2 branch,NA,NA,No
+8/G11?,SR,M,88,24/01/18,1407,14.42,26.3,0,70,0.5,8,1.7,332.5,NA,Ngaio,4.4,NA,NA,NA,No
+8/G11?,SR,M,88,29/01/18,1258,118.85,24.3,0,69,0,9,14.9,268,2.07,PITten,3.35,2 branch,NA,NA,No
+9/G35,SR,M,85,16/01/18,1600,NA,25.9,0,56,6,0,NA,NA,2.1,kanuka,3,1 branch,NA,NA,Yes
+9/G35,SR,M,85,17/01/18,1640,24.67,24.9,24.6,52,8,1,3.4,260,NA,kanuka,3,NA,NA,NA,No
+9/G35,SR,M,85,19/01/18,1100,42.33,20.3,0.2,95,7,2,10.7,10,1.6,Ngaio,3.5,1 branch,NA,NA,No
+9/G35,SR,M,85,19/01/18,11,13.18,21.1,0.2,89,0,3,3.8,80,3.2,kanuka,3.6,foliage,NA,NA,No
+9/G35,SR,M,85,20/01/18,1450,14.65,23.8,0,74,2,4,4,280,2.2,kanuka,3.3,2 branch,NA,NA,No
+9/G35,SR,M,85,28/02/18,1435,935.75,21.2,0.2,81,8,5,NA,NA,1.4,kanuka,3.4,NA,down,not moving,No
+9/G35,SR,M,85,1/03/18,2309,32.57,17.5,0,82,8,6,3.76,95,1.98,Ngaio,2.89,4 branch,down,moving,No
+9/G35,SR,M,85,2/03/18,1322,14.22,23.2,0,70,8,7,1.97,114,2.44,Ngaio,2.89,2 branch,up,moving,No
+9/G35,SR,M,85,4/03/18,2300,57.63,19.7,0,75,5,8,3.07,87,1.5,Ngaio,3.87,2 branch,up,moving,No
+9/G35,SR,M,85,5/03/18,15,1.25,20.5,0,80,0,9,1.32,95,NA,Ngaio,3.87,NA,NA,NA,No
+9/G35,SR,M,85,7/03/18,56,48.68,13.6,3,83,6,10,1.49,235,3.05,kanuka,3.65,1 branch,NA,NA,No
+9/G35,SR,M,85,8/03/18,1524,38.47,15.5,0,83,8,11,1.29,136,2.77,Ngaio,4.25,3 branch,down,moving,Yes
